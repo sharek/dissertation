@@ -1,0 +1,1 @@
+To compile the raw tex, make sure to use pdflatex and watch out if you haven't configured Minion and Myriad Pro as fonts.  
