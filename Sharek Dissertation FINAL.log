@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.12.12)  9 MAY 2012 23:43
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.12.12)  9 MAY 2012 23:55
 entering extended mode
 **Sharek*Dissertation*FINAL.tex
-("C:\Users\mamluk\Documents\test\Sharek Dissertation FINAL.tex"
+
+("C:\Users\mamluk\Documents\academics\dissertation\Sharek Dissertation FINAL.te
+x"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, ukenglish, usenglishmax, lo
 aded.
@@ -387,27 +389,6 @@ Package verse [2008/07/23] emulated by memoir.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\mempatch.sty"
 Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2008/07/08 v3.8m The Babel package
-
-*************************************
-* Local config file bblopts.cfg used
-*
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
-File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\english.ldf"
-Language: english 2005/03/30 v3.3o English support from the babel system
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2008/07/08 v3.8m Babel common definitions
-\babel@savecnt=\count138
-\U@D=\dimen147
-)
-\l@canadian = a dialect from \language\l@american 
-\l@australian = a dialect from \language\l@british 
-\l@newzealand = a dialect from \language\l@british 
-))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MinionPro\MinionPro.sty"
 Package: MinionPro 2007/03/15 v2.1 MinionPro support for LaTeX
 
@@ -421,11 +402,11 @@ Package: otfontdef 2005/06/04 v0.1e OpenType font definition
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks22
 ))
-\Mn@option@normalsize=\dimen148
+\Mn@option@normalsize=\dimen147
 Package MinionPro-FontDef Info: Configuration: smallfamily, noopticals, normals
 ize=12.0pt on input line 52.
-\Mn@config@cnt=\count139
-\Mn@fontdimen=\dimen149
+\Mn@config@cnt=\count138
+\Mn@fontdimen=\dimen148
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\textcomp.sty"
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
@@ -522,46 +503,46 @@ Package: amstext 2000/06/29 v2.01
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks23
-\ex@=\dimen150
+\ex@=\dimen149
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen151
+\pmbraise@=\dimen150
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count140
+\inf@bad=\count139
 LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count141
-\leftroot@=\count142
+\uproot@=\count140
+\leftroot@=\count141
 LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count143
-\DOTSCASE@=\count144
+\classnum@=\count142
+\DOTSCASE@=\count143
 LaTeX Info: Redefining \ldots on input line 379.
 LaTeX Info: Redefining \dots on input line 382.
 LaTeX Info: Redefining \cdots on input line 467.
 \Mathstrutbox@=\box29
 \strutbox@=\box30
-\big@size=\dimen152
+\big@size=\dimen151
 LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count145
-\c@MaxMatrixCols=\count146
+\macc@depth=\count144
+\c@MaxMatrixCols=\count145
 \dotsspace@=\muskip10
-\c@parentequation=\count147
-\dspbrk@lvl=\count148
+\c@parentequation=\count146
+\dspbrk@lvl=\count147
 \tag@help=\toks24
-\row@=\count149
-\column@=\count150
-\maxfields@=\count151
+\row@=\count148
+\column@=\count149
+\maxfields@=\count150
 \andhelp@=\toks25
-\eqnshift@=\dimen153
-\alignsep@=\dimen154
-\tagshift@=\dimen155
-\tagwidth@=\dimen156
-\totwidth@=\dimen157
-\lineht@=\dimen158
+\eqnshift@=\dimen152
+\alignsep@=\dimen153
+\tagshift@=\dimen154
+\tagwidth@=\dimen155
+\totwidth@=\dimen156
+\lineht@=\dimen157
 \@envbody=\toks26
 \multlinegap=\skip186
 \multlinetaggap=\skip187
@@ -679,7 +660,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  T1/MinionPro-LF/m/it --> T1/MinionPro-LF/eb/it on input
  line 169.
-\c@mv@tabular=\count152
+\c@mv@tabular=\count151
 LaTeX Font Info:    Overwriting symbol font `operators' in version `tabular'
 (Font)                  T1/MinionPro-LF/m/n --> T1/MinionPro-TLF/m/n on input l
 ine 171.
@@ -689,7 +670,7 @@ input line 172.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `tabular'
 (Font)                  OT1/cmr/m/it --> T1/MinionPro-TLF/m/it on input line 17
 3.
-\c@mv@boldtabular=\count153
+\c@mv@boldtabular=\count152
 LaTeX Font Info:    Overwriting symbol font `operators' in version `boldtabular
 '
 (Font)                  T1/MinionPro-LF/m/n --> T1/MinionPro-TLF/eb/n on input 
@@ -774,7 +755,28 @@ File: T1MinionPro-OsF.fd 2005/01/23 v2.0 font definitions for T1/MinionPro-OsF.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MinionPro\MinionPro-FontDef.sty"
 File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
-))) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\inconsolata\inconsolata.sty"
+))) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count153
+\U@D=\dimen158
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\inconsolata\inconsolata.sty"
 Package: inconsolata 2009/11/28 Inconsolata
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
@@ -900,27 +902,28 @@ Sidefoothsep and sidefootwidth: 7pt and 50pt
 Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 ******************************************************
 
-("C:\Users\mamluk\Documents\test\Sharek Dissertation FINAL.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 55.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+("C:\Users\mamluk\Documents\academics\dissertation\Sharek Dissertation FINAL.au
+x")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 57.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Info: Redefining \microtypecontext on input line 55.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Info: Redefining \microtypecontext on input line 57.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -982,7 +985,7 @@ NOT AUSTRALIAN!!!
 LaTeX Font Info:    Font shape `T1/MinionPro-OsF/m/sl' in size <12> not availab
 le
 (Font)              Font shape `T1/MinionPro-OsF/m/it' tried instead on input l
-ine 66.
+ine 68.
 
 [2
 
@@ -990,30 +993,30 @@ ine 66.
 LaTeX Font Info:    Font shape `T1/MinionPro-OsF/bx/n' in size <17.28> not avai
 lable
 (Font)              Font shape `T1/MinionPro-OsF/b/n' tried instead on input li
-ne 70.
+ne 72.
  [3
 
 ] [4
 
 ]
-Overfull \hbox (5.27626pt too wide) in paragraph at lines 97--98
+Overfull \hbox (5.27626pt too wide) in paragraph at lines 99--100
 []\T1/MinionPro-OsF/m/n/12 (-20) Next, sim-i-lar themes are pur-sued ex-per-i-m
 en-tally, when a novel method
  []
 
-[5] [6] ("C:\Users\mamluk\Documents\test\Sharek Dissertation FINAL.toc"
+[5] [6]
+("C:\Users\mamluk\Documents\academics\dissertation\Sharek Dissertation FINAL.to
+c"
 LaTeX Font Info:    Font shape `T1/MinionPro-OsF/bx/n' in size <12> not availab
 le
 (Font)              Font shape `T1/MinionPro-OsF/b/n' tried instead on input li
 ne 2.
 LaTeX Font Info:    Try loading font information for OML+MinionPro-TOsF on inpu
 t line 2.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MinionPro\omlminionpro-tosf.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MinionPro\omlminionpro-tosf.fd"
 File: OMLMinionPro-TOsF.fd 2005/01/23 v2.0 font definitions for OML/MinionPro-T
 OsF.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MinionPro\MinionPro-FontDef.sty"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MinionPro\MinionPro-FontDef.sty"
 File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
 )) [7
 
@@ -1028,59 +1031,59 @@ File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
 File: contingencytable.pdf Graphic file (type pdf)
 
 <use contingencytable.pdf>
-Package pdftex.def Info: contingencytable.pdf used on input line 168.
+Package pdftex.def Info: contingencytable.pdf used on input line 170.
 (pdftex.def)             Requested size: 284.52756pt x 112.39249pt.
 LaTeX Font Info:    Try loading font information for T1+Myriad-LF on input line
- 169.
+ 171.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MyriadPro\t1myriad-lf.fd"
 File: T1Myriad-LF.fd 2004/10/15 font definitions for T1/Myriad-LF.
 )
-[9] [10 <C:/Users/mamluk/Documents/test/contingencytable.pdf>] [11] [12]
-[13
+[9] [10 <C:/Users/mamluk/Documents/academics/dissertation/contingencytable.pdf>
+] [11] [12] [13
 
 ] [14] [15] <ioc-fig-1.png, id=89, 469.15276pt x 330.033pt>
 File: ioc-fig-1.png Graphic file (type png)
 
 <use ioc-fig-1.png>
-Package pdftex.def Info: ioc-fig-1.png used on input line 223.
+Package pdftex.def Info: ioc-fig-1.png used on input line 225.
 (pdftex.def)             Requested size: 284.52756pt x 200.16661pt.
- [16 <C:/Users/mamluk/Documents/test/ioc-fig-1.png>]
-[17] [18] <ioc-fig-2.png, id=100, 511.31026pt x 312.56775pt>
+ [16 <C:/Users/mamluk/Documents/academics/dissertation/ioc-fig-1.png>] [17] [18
+] <ioc-fig-2.png, id=100, 511.31026pt x 312.56775pt>
 File: ioc-fig-2.png Graphic file (type png)
 
 <use ioc-fig-2.png>
-Package pdftex.def Info: ioc-fig-2.png used on input line 273.
+Package pdftex.def Info: ioc-fig-2.png used on input line 275.
 (pdftex.def)             Requested size: 284.52756pt x 173.93977pt.
- [19] [20 <C:/Users/mamluk/Documents/test/ioc-fig-2.png>]
-[21]
-Overfull \hbox (7.46086pt too wide) in paragraph at lines 318--318
+ [19] [20 <C:/Users/mamluk/Documents/academics/dissertation/ioc-fig-2.png>] [21
+]
+Overfull \hbox (7.46086pt too wide) in paragraph at lines 320--320
 [][] 
  []
 
 
-Overfull \hbox (8.20485pt too wide) in paragraph at lines 318--318
+Overfull \hbox (8.20485pt too wide) in paragraph at lines 320--320
 [] 
  []
 
 
-Overfull \hbox (12.17688pt too wide) in paragraph at lines 318--318
+Overfull \hbox (12.17688pt too wide) in paragraph at lines 320--320
 []|  
  []
 
 
-Overfull \hbox (1.15848pt too wide) in paragraph at lines 318--318
+Overfull \hbox (1.15848pt too wide) in paragraph at lines 320--320
 []\T1/MinionPro-OsF/m/n/12 (-20) 100%|  
  []
 
 [22] <ioc-fig-3.png, id=115, 481.8pt x 345.6915pt>
 File: ioc-fig-3.png Graphic file (type png)
  <use ioc-fig-3.png>
-Package pdftex.def Info: ioc-fig-3.png used on input line 324.
+Package pdftex.def Info: ioc-fig-3.png used on input line 326.
 (pdftex.def)             Requested size: 284.52756pt x 204.15137pt.
  [23]
-[24 <C:/Users/mamluk/Documents/test/ioc-fig-3.png>]
-Overfull \hbox (8.64139pt too wide) in paragraph at lines 342--344
+[24 <C:/Users/mamluk/Documents/academics/dissertation/ioc-fig-3.png>]
+Overfull \hbox (8.64139pt too wide) in paragraph at lines 344--346
 \T1/MinionPro-OsF/m/n/12 (-20) Our third study em-ployed Al-loy and Abram-son's
  (1979) pop-u-lar ``button-light'' paradigm.
  []
@@ -1089,27 +1092,28 @@ Overfull \hbox (8.64139pt too wide) in paragraph at lines 342--344
 File: ioc-fig-4.png Graphic file (type png)
 
 <use ioc-fig-4.png>
-Package pdftex.def Info: ioc-fig-4.png used on input line 424.
+Package pdftex.def Info: ioc-fig-4.png used on input line 426.
 (pdftex.def)             Requested size: 284.52756pt x 163.4457pt.
- [31] [32] [33 <C:/Users/mamluk/Documents/test/ioc-fig-4.png>] [34] [35] [36] [
-37] [38] [39] [40
+ [31] [32] [33 <C:/Users/mamluk/Documents/academics/dissertation/ioc-fig-4.png>
+] [34] [35] [36] [37] [38] [39] [40
 
 ] [41] [42] [43]
 <model-fig-1.png, id=189, 1819.79875pt x 1164.35pt>
 File: model-fig-1.png Graphic file (type png)
  <use model-fig-1.png>
-Package pdftex.def Info: model-fig-1.png used on input line 522.
+Package pdftex.def Info: model-fig-1.png used on input line 524.
 (pdftex.def)             Requested size: 397.0pt x 254.00804pt.
 
 <model-fig-2.png, id=190, 1819.79875pt x 1164.35pt>
 File: model-fig-2.png Graphic file (type png)
  <use model-fig-2.png>
-Package pdftex.def Info: model-fig-2.png used on input line 531.
+Package pdftex.def Info: model-fig-2.png used on input line 533.
 (pdftex.def)             Requested size: 397.0pt x 254.00804pt.
 
-[44 <C:/Users/mamluk/Documents/test/model-fig-1.png>] [45 <C:/Users/mamluk/Docu
-ments/test/model-fig-2.png>] [46]
-Underfull \hbox (badness 1515) in paragraph at lines 556--556
+[44 <C:/Users/mamluk/Documents/academics/dissertation/model-fig-1.png>]
+[45 <C:/Users/mamluk/Documents/academics/dissertation/model-fig-2.png>]
+[46]
+Underfull \hbox (badness 1515) in paragraph at lines 558--558
 []\T1/MinionPro-OsF/m/n/12 (+20) Table 4.1: \T1/MinionPro-OsF/b/n/12 Com-par-i-
 son of Em-pir-i-cal and Sim-u-lated Re-sults: \T1/MinionPro-OsF/m/n/12 (+20) Th
 e sim-u-lated
@@ -1118,14 +1122,14 @@ e sim-u-lated
 [47] [48] [49] [50
 
 ] [51] [52]
-Overfull \hbox (1.94635pt too wide) in paragraph at lines 650--650
+Overfull \hbox (1.94635pt too wide) in paragraph at lines 652--652
 [][]|  
  []
 
 [53] [54] [55] [56] [57] [58] [59
 
 ] [60]
-Overfull \hbox (3.63153pt too wide) in paragraph at lines 728--740
+Overfull \hbox (3.63153pt too wide) in paragraph at lines 730--742
 [][] 
  []
 
@@ -1140,41 +1144,42 @@ Overfull \hbox (3.63153pt too wide) in paragraph at lines 728--740
 <learning1.pdf, id=316, 794.97pt x 614.295pt>
 File: learning1.pdf Graphic file (type pdf)
  <use learning1.pdf>
-Package pdftex.def Info: learning1.pdf used on input line 935.
+Package pdftex.def Info: learning1.pdf used on input line 937.
 (pdftex.def)             Requested size: 397.0pt x 306.78117pt.
 
 <learning2.pdf, id=317, 794.97pt x 614.295pt>
 File: learning2.pdf Graphic file (type pdf)
  <use learning2.pdf>
-Package pdftex.def Info: learning2.pdf used on input line 943.
+Package pdftex.def Info: learning2.pdf used on input line 945.
 (pdftex.def)             Requested size: 397.0pt x 306.78117pt.
 
 <learning3.pdf, id=318, 794.97pt x 614.295pt>
 File: learning3.pdf Graphic file (type pdf)
  <use learning3.pdf>
-Package pdftex.def Info: learning3.pdf used on input line 951.
+Package pdftex.def Info: learning3.pdf used on input line 953.
 (pdftex.def)             Requested size: 397.0pt x 306.78117pt.
 
 <learning4.pdf, id=319, 794.97pt x 614.295pt>
 File: learning4.pdf Graphic file (type pdf)
  <use learning4.pdf>
-Package pdftex.def Info: learning4.pdf used on input line 958.
+Package pdftex.def Info: learning4.pdf used on input line 960.
 (pdftex.def)             Requested size: 397.0pt x 306.78117pt.
 
 <learning5.pdf, id=320, 794.97pt x 614.295pt>
 File: learning5.pdf Graphic file (type pdf)
  <use learning5.pdf>
-Package pdftex.def Info: learning5.pdf used on input line 965.
+Package pdftex.def Info: learning5.pdf used on input line 967.
 (pdftex.def)             Requested size: 397.0pt x 306.78117pt.
  [83
 
 
-] [84 <C:/Users/mamluk/Documents/test/learning1.pdf>] [85 <C:/Users/mamluk/Docu
-ments/test/learning2.pdf>] [86 <C:/Users/mamluk/Documents/test/learning3.pdf>] 
-[87 <C:/Users/mamluk/Documents/test/learning4.pdf>] [88 <C:/Users/mamluk/Docume
-nts/test/learning5.pdf>] ("C:\Users\mamluk\Documents\test\Sharek Dissertation F
-INAL.bbl"
-[89
+] [84 <C:/Users/mamluk/Documents/academics/dissertation/learning1.pdf>] [85 <C:
+/Users/mamluk/Documents/academics/dissertation/learning2.pdf>] [86 <C:/Users/ma
+mluk/Documents/academics/dissertation/learning3.pdf>] [87 <C:/Users/mamluk/Docu
+ments/academics/dissertation/learning4.pdf>] [88 <C:/Users/mamluk/Documents/aca
+demics/dissertation/learning5.pdf>]
+("C:\Users\mamluk\Documents\academics\dissertation\Sharek Dissertation FINAL.bb
+l" [89
 
 
 ] [90] [91] [92] [93] [94] [95]) [96] [97
@@ -1182,35 +1187,35 @@ INAL.bbl"
 ]
 \tf@toc=\write4
 
-("C:\Users\mamluk\Documents\test\Sharek Dissertation FINAL.aux") ) 
+("C:\Users\mamluk\Documents\academics\dissertation\Sharek Dissertation FINAL.au
+x") ) 
 Here is how much of TeX's memory you used:
  11704 strings out of 495303
- 181942 string characters out of 3181468
- 263617 words of memory out of 3000000
+ 182140 string characters out of 3181468
+ 263594 words of memory out of 3000000
  14178 multiletter control sequences out of 15000+200000
  725171 words of font info for 505 fonts, out of 3000000 for 9000
  36 hyphenation exceptions out of 8191
  49i,12n,58p,3509b,489s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolS.enc}{C:/Program Files 
-(x86)/MiKTeX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{C:/Program Files (x86)
-/MiKTeX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{C:/Program Files (x86)/MiKT
-eX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Program Files (x86)/MiKTeX 2.
-9/fonts/enc/dvips/MinionPro/base-MinionPro-ad.enc}{C:/Program Files (x86)/MiKTe
-X 2.9/fonts/enc/dvips/MinionPro/base-MinionPro-ae.enc}{C:/Program Files (x86)/M
-iKTeX 2.9/fonts/enc/dvips/MinionPro/base-MinionPro-ab.enc}{C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/enc/dvips/MyriadPro/my-lf-t1.enc}{C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/enc/dvips/MinionPro/base-MinionPro-aa.enc}{C:/Program Files (x86
-)/MiKTeX 2.9/fonts/enc/dvips/MinionPro/base-MinionPro-ac.enc}<C:/Users/mamluk/A
-ppData/Local/MiKTeX/2.9/fonts/type1/Adobe/MinionPro/MinionPro-Bold.pfb><C:/User
-s/mamluk/AppData/Local/MiKTeX/2.9/fonts/type1/Adobe/MinionPro/MinionPro-It.pfb>
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolS.enc}
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/enc/dvips/MinionPro/base-MinionPro-ad.enc}{C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/enc/dvips/MinionPro/base-MinionPro-ae.enc}{C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/enc/dvips/MinionPro/base-MinionPro-ab.enc}{C:
+/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/MyriadPro/my-lf-t1.enc}{C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/enc/dvips/MinionPro/base-MinionPro-aa.enc}{C:/
+Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/MinionPro/base-MinionPro-ac.enc}
 <C:/Users/mamluk/AppData/Local/MiKTeX/2.9/fonts/type1/Adobe/MinionPro/MinionPro
--Regular.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/mnsymbol/MnS
-ymbol10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/mnsymbol/MnSy
-mbol12.pfb><C:/Users/mamluk/AppData/Local/MiKTeX/2.9/fonts/type1/Adobe/MyriadPr
-o/MyriadPro-Regular.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/zapf
-ding/uzdr.pfb>
-Output written on "Sharek Dissertation FINAL.pdf" (105 pages, 1869865 bytes).
+-Bold.pfb><C:/Users/mamluk/AppData/Local/MiKTeX/2.9/fonts/type1/Adobe/MinionPro
+/MinionPro-It.pfb><C:/Users/mamluk/AppData/Local/MiKTeX/2.9/fonts/type1/Adobe/M
+inionPro/MinionPro-Regular.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
+ublic/mnsymbol/MnSymbol10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/mnsymbol/MnSymbol12.pfb><C:/Users/mamluk/AppData/Local/MiKTeX/2.9/fonts/ty
+pe1/Adobe/MyriadPro/MyriadPro-Regular.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/urw/zapfding/uzdr.pfb>
+Output written on "Sharek Dissertation FINAL.pdf" (105 pages, 1869986 bytes).
 PDF statistics:
  485 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
