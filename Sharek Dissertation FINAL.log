@@ -1,0 +1,1218 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.12.12)  9 MAY 2012 23:43
+entering extended mode
+**Sharek*Dissertation*FINAL.tex
+("C:\Users\mamluk\Documents\test\Sharek Dissertation FINAL.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, ukenglish, usenglishmax, lo
+aded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\memoir.cls"
+Document Class: memoir 2011/03/06 v3.6j configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count79
+\c@@memmarkcntra=\count80
+\l@nohyphenation=\language3
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(C:\Users\mamluk\AppData\Roaming\MiKTeX\2.9\tex\latex\ifetex\ifetex.sty
+Package: ifetex 2011/11/06 v1.1 ifetex
+
+(C:\Users\mamluk\AppData\Roaming\MiKTeX\2.9\tex\plain\ifetex\ifetex.tex))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count81
+)
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 726.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\mem12.clo"
+File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count82
+\memPD=\dimen102
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count91
+\c@@ppsaveapp=\count92
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen105
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count93
+\c@poemline=\count94
+\c@modulo@vs=\count95
+\c@memfvsline=\count96
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen106
+\c@verse=\count97
+\c@chrsinstr=\count98
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count99
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count100
+\TX@ftn=\toks16
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count101
+\@cmidlb=\count102
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count103
+\@lastruleclass=\count104
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count105
+\@linestogo=\count106
+\@cellstogo=\count107
+\@cellsincolumn=\count108
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count109
+\mem@margin@floatbox=\box26
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count110
+\m@mscap@capbox=\box27
+\m@mscap@fbox=\box28
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7377.
+LaTeX Info: Redefining \emph on input line 7385.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count111
+\bibindent=\dimen139
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert233
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip156
+\sideins=\insert232
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert231
+\@mpfootinsv@r=\insert230
+\m@m@k=\count112
+\m@m@h=\dimen142
+\m@mipn@skip=\skip165
+\sidefootins=\insert229
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count113
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count114
+\c@pagenoteshadow=\count115
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count116
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count117
+\c@bvlinectr=\count118
+\bvnumlength=\skip178
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count119
+LaTeX Info: Redefining \: on input line 11807.
+LaTeX Info: Redefining \! on input line 11809.
+\c@ism@mctr=\count120
+\c@xsm@mctr=\count121
+\c@csm@mctr=\count122
+\c@ksm@mctr=\count123
+\c@xksm@mctr=\count124
+\c@cksm@mctr=\count125
+\c@msm@mctr=\count126
+\c@xmsm@mctr=\count127
+\c@cmsm@mctr=\count128
+\c@bsm@mctr=\count129
+\c@workm@mctr=\count130
+\c@sheetsequence=\count131
+\c@lastsheet=\count132
+\c@lastpage=\count133
+\c@figure=\count134
+\c@lofdepth=\count135
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count136
+\c@lotdepth=\count137
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package array [2008/07/23] emulated by memoir.
+Package booktabs [2008/07/23] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package dcolumn [2008/07/23] emulated by memoir.
+Package delarray [2008/07/23] emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package tabularx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\mempatch.sty"
+Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count138
+\U@D=\dimen147
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MinionPro\MinionPro.sty"
+Package: MinionPro 2007/03/15 v2.1 MinionPro support for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MinionPro\MinionPro-FontDef.sty"
+File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MinionPro\otfontdef.sty"
+Package: otfontdef 2005/06/04 v0.1e OpenType font definition
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks22
+))
+\Mn@option@normalsize=\dimen148
+Package MinionPro-FontDef Info: Configuration: smallfamily, noopticals, normals
+ize=12.0pt on input line 52.
+\Mn@config@cnt=\count139
+\Mn@fontdimen=\dimen149
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mnsymbol\MnSymbol.sty"
+Package: MnSymbol 2007/01/21 v1.4 support for the MnSymbol font
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip185
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks23
+\ex@=\dimen150
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen151
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count140
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count141
+\leftroot@=\count142
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count143
+\DOTSCASE@=\count144
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count145
+\c@MaxMatrixCols=\count146
+\dotsspace@=\muskip10
+\c@parentequation=\count147
+\dspbrk@lvl=\count148
+\tag@help=\toks24
+\row@=\count149
+\column@=\count150
+\maxfields@=\count151
+\andhelp@=\toks25
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks26
+\multlinegap=\skip186
+\multlinetaggap=\skip187
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\eufrak.sty"
+Package: eufrak 2009/06/22 v3.00 Euler Fraktur fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuFrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 39.
+)
+LaTeX Info: Redefining \dagger on input line 84.
+LaTeX Info: Redefining \ddagger on input line 84.
+LaTeX Info: Redefining \mathparagraph on input line 84.
+LaTeX Info: Redefining \mathsection on input line 84.
+LaTeX Info: Redefining \mathdollar on input line 84.
+LaTeX Info: Redefining \mathsterling on input line 84.
+LaTeX Info: Redefining \Re on input line 84.
+LaTeX Info: Redefining \Im on input line 84.
+\symMnSyA=\mathgroup4
+\symMnSyB=\mathgroup5
+\symMnSyC=\mathgroup6
+\symMnSyD=\mathgroup7
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/lmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/lmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/lmsy/m/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/lmsy/b/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `MnSyA' in version `bold'
+(Font)                  U/MnSymbolA/m/n --> U/MnSymbolA/b/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `MnSyB' in version `bold'
+(Font)                  U/MnSymbolB/m/n --> U/MnSymbolB/b/n on input line 122.
+LaTeX Font Info:    Overwriting symbol font `MnSyC' in version `bold'
+(Font)                  U/MnSymbolC/m/n --> U/MnSymbolC/b/n on input line 123.
+LaTeX Font Info:    Overwriting symbol font `MnSyD' in version `bold'
+(Font)                  U/MnSymbolD/m/n --> U/MnSymbolD/b/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/MnSymbolE/m/n --> OMX/MnSymbolE/b/n on input line 1
+25.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  U/MnSymbolF/m/n --> U/MnSymbolF/b/n on input line 126.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 241.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  OMS/MnSymbolS/m/n --> OMS/MnSymbolS/b/n on input line 2
+41.
+LaTeX Info: Redefining \longrightarrow on input line 548.
+LaTeX Info: Redefining \longleftarrow on input line 549.
+LaTeX Info: Redefining \longleftrightarrow on input line 550.
+LaTeX Info: Redefining \Longrightarrow on input line 551.
+LaTeX Info: Redefining \Longleftarrow on input line 552.
+LaTeX Info: Redefining \Longleftrightarrow on input line 553.
+LaTeX Info: Redefining \longmapsto on input line 554.
+LaTeX Info: Redefining \vdots on input line 868.
+LaTeX Font Info:    Redeclaring math symbol \braceld on input line 1721.
+LaTeX Font Info:    Redeclaring math symbol \bracelu on input line 1722.
+LaTeX Font Info:    Redeclaring math symbol \bracerd on input line 1723.
+LaTeX Font Info:    Redeclaring math symbol \braceru on input line 1724.
+LaTeX Info: Redefining \downbracefill on input line 1799.
+LaTeX Info: Redefining \upbracefill on input line 1800.
+LaTeX Info: Redefining \overbrace on input line 1819.
+LaTeX Info: Redefining \underbrace on input line 1820.
+LaTeX Info: Redefining \surd on input line 1843.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 1845.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 1846.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1848.
+)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 163.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 163.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> T1/MinionPro-LF/m/n on input line 163.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 163.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> T1/MinionPro-LF/m/n on input line 163.
+
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 164.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/lmm/m/it --> OML/MinionPro-TOsF/m/it on input line 
+164.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/lmm/b/it --> OML/MinionPro-TOsF/m/it on input line 
+164.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/MinionPro-LF/m/n --> T1/MinionPro-LF/eb/n on input l
+ine 165.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/MinionPro-TOsF/m/it --> OML/MinionPro-TOsF/eb/it on
+ input line 166.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 167.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> T1/MinionPro-LF/eb/n on input line 167
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/lmr/bx/n --> T1/MinionPro-LF/eb/n on input line 167
+.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 168.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> T1/MinionPro-LF/m/it on input line 168
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmr/bx/it --> T1/MinionPro-LF/m/it on input line 16
+8.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/MinionPro-LF/m/it --> T1/MinionPro-LF/eb/it on input
+ line 169.
+\c@mv@tabular=\count152
+LaTeX Font Info:    Overwriting symbol font `operators' in version `tabular'
+(Font)                  T1/MinionPro-LF/m/n --> T1/MinionPro-TLF/m/n on input l
+ine 171.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `tabular'
+(Font)                  OML/MinionPro-TOsF/m/it --> OML/MinionPro-TOsF/m/it on 
+input line 172.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `tabular'
+(Font)                  OT1/cmr/m/it --> T1/MinionPro-TLF/m/it on input line 17
+3.
+\c@mv@boldtabular=\count153
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldtabular
+'
+(Font)                  T1/MinionPro-LF/m/n --> T1/MinionPro-TLF/eb/n on input 
+line 176.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldtabular'
+(Font)                  OML/MinionPro-TOsF/m/it --> OML/MinionPro-TOsF/eb/it on
+ input line 177.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `boldtabular
+'
+(Font)                  OT1/cmr/m/it --> T1/MinionPro-TLF/eb/it on input line 1
+78.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 179.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 180.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 181.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 182.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 183.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 184.
+LaTeX Font Info:    Redeclaring math accent \check on input line 185.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 186.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 187.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 188.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MinionPro\fontaxes.sty"
+Package: fontaxes 2007/03/31 v0.2b Font selection axes
+LaTeX Info: Redefining \upshape on input line 26.
+LaTeX Info: Redefining \itshape on input line 28.
+LaTeX Info: Redefining \slshape on input line 30.
+LaTeX Info: Redefining \scshape on input line 34.
+)
+LaTeX Font Info:    Redeclaring math symbol \partial on input line 499.
+LaTeX Font Info:    Redeclaring math symbol \ell on input line 501.
+Package textcomp Info: Setting MinionPro-LF sub-encoding to TS1/1 on input line
+ 521.
+Package textcomp Info: Setting MinionPro-TLF sub-encoding to TS1/1 on input lin
+e 522.
+Package textcomp Info: Setting MinionPro-OsF sub-encoding to TS1/1 on input lin
+e 523.
+Package textcomp Info: Setting MinionPro-TOsF sub-encoding to TS1/1 on input li
+ne 524.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 589.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  U/MnSymbolF/m/n --> U/MnSymbolFI/m/it on input line 589
+.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  U/MnSymbolF/b/n --> U/MnSymbolFI/m/it on input line 589
+.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `tabular'
+(Font)                  U/MnSymbolF/m/n --> U/MnSymbolFI/m/it on input line 589
+.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `boldtabular'
+(Font)                  U/MnSymbolF/m/n --> U/MnSymbolFI/m/it on input line 589
+.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  U/MnSymbolFI/m/it --> U/MnSymbolFI/b/it on input line 5
+89.
+LaTeX Font Info:    Redeclaring math symbol \tint on input line 589.
+LaTeX Font Info:    Redeclaring math symbol \tiint on input line 589.
+LaTeX Font Info:    Redeclaring math symbol \tiiint on input line 589.
+LaTeX Font Info:    Redeclaring math symbol \tiiiint on input line 589.
+LaTeX Font Info:    Redeclaring math symbol \tidotsint on input line 589.
+LaTeX Font Info:    Redeclaring math symbol \tlandupint on input line 589.
+LaTeX Font Info:    Redeclaring math symbol \tlanddownint on input line 589.
+LaTeX Font Info:    Redeclaring math symbol \tstrokedint on input line 589.
+LaTeX Font Info:    Redeclaring math symbol \toint on input line 589.
+LaTeX Font Info:    Redeclaring math symbol \toiint on input line 589.
+LaTeX Font Info:    Redeclaring math symbol \trcirclerightint on input line 589
+.
+LaTeX Font Info:    Redeclaring math symbol \tlcirclerightint on input line 589
+.
+LaTeX Font Info:    Redeclaring math symbol \trcircleleftint on input line 589.
+
+LaTeX Font Info:    Redeclaring math symbol \tlcircleleftint on input line 589.
+
+LaTeX Font Info:    Redeclaring math symbol \tsumint on input line 589.
+LaTeX Info: Redefining \LaTeX on input line 596.
+LaTeX Font Info:    Try loading font information for T1+MinionPro-OsF on input 
+line 628.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MinionPro\t1minionpro-osf.fd"
+File: T1MinionPro-OsF.fd 2005/01/23 v2.0 font definitions for T1/MinionPro-OsF.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MinionPro\MinionPro-FontDef.sty"
+File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
+))) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\inconsolata\inconsolata.sty"
+Package: inconsolata 2009/11/28 Inconsolata
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(C:\Users\mamluk\AppData\Roaming\MiKTeX\2.9\tex\latex\lettrine\lettrine.sty
+File: lettrine.sty 2007/08/08 v1.62 (Daniel Flipo)
+\c@DefaultLines=\count154
+\DefaultFindent=\dimen159
+\DefaultNindent=\dimen160
+\DefaultSlope=\dimen161
+\L@lbox=\box31
+\L@tbox=\box32
+\c@L@lines=\count155
+\L@Pindent=\dimen162
+\L@Findent=\dimen163
+\L@Nindent=\dimen164
+\L@lraise=\dimen165
+\L@first=\dimen166
+\L@next=\dimen167
+\L@slope=\dimen168
+\L@height=\dimen169
+\LettrineWidth=\dimen170
+
+Loading lettrine.cfg
+(C:\Users\mamluk\AppData\Roaming\MiKTeX\2.9\tex\latex\lettrine\lettrine.cfg))
+(C:\Users\mamluk\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.sty
+Package: microtype 2010/01/10 v2.4 Micro-typography with pdfTeX (RS)
+\MT@toks=\toks28
+\MT@count=\count156
+LaTeX Info: Redefining \lsstyle on input line 1597.
+LaTeX Info: Redefining \lslig on input line 1597.
+\MT@outer@space=\skip188
+LaTeX Info: Redefining \textls on input line 1605.
+\MT@outer@kern=\dimen171
+LaTeX Info: Redefining \textmicrotypecontext on input line 2156.
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\mamluk\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.cfg
+File: microtype.cfg 2010/01/10 v2.4 microtype main configuration file (RS)
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count157
+))
+\Gin@req@height=\dimen172
+\Gin@req@width=\dimen173
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+(C:\Users\mamluk\AppData\Roaming\MiKTeX\2.9\tex\latex\apacite\apacite.sty
+Package: apacite 2009/03/01 v4.05 APA citation
+\c@BibCnt=\count158
+\bibleftmargin=\skip189
+\bibindent=\skip190
+\bibparsep=\skip191
+\bibitemsep=\skip192
+)
+(C:\Users\mamluk\AppData\Roaming\MiKTeX\2.9\tex\latex\tabulary\tabulary.sty
+Package: tabulary 2008/12/01 v0.9 tabulary package (DPC)
+\TY@count=\count159
+\TY@linewidth=\dimen174
+\tymin=\dimen175
+\tymax=\dimen176
+\TY@tablewidth=\dimen177
+)
+(C:\LocalLatex\tex\latex\misc\glyphtounicode.tex)
+
+******************************************************
+Stock height and width: 794.96999pt by 614.295pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 794.96999pt by 614.295pt
+Text height and width: 551.83383pt by 397pt
+Spine and edge margins: 108.405pt and 108.405pt
+Upper and lower margins: 124.64378pt and 118.49237pt
+Headheight and headsep: 14.5pt and 19.8738pt
+Footskip: 30pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 50pt
+Sidecapsep and sidecapwidth: 7pt and 50pt
+Sidebarhsep and sidebarwidth: 7pt and 50pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 546.64995pt
+Sidefoothsep and sidefootwidth: 7pt and 50pt
+Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
+******************************************************
+
+("C:\Users\mamluk\Documents\test\Sharek Dissertation FINAL.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 55.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Info: Redefining \microtypecontext on input line 55.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: Tracking enabled.
+Package microtype Info: Using default tracking set `smallcaps'.
+Package microtype Info: Adjustment of interword spacing enabled.
+Package microtype Info: Using default spacing set `basictext'.
+Package microtype Info: Adjustment of character kerning enabled.
+Package microtype Info: Using default kerning set `alltext'.
+Package microtype Info: Redefining babel's language switching commands.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MinionPro\mt-MinionPro.cfg"
+File: mt-MinionPro.cfg 2005/02/07 v1.0 microtype config file for MinionPro
+)
+
+Package microtype Warning: Unknown slot number of character
+(microtype)                `\j '
+(microtype)                in font encoding `T1' in inheritance list
+(microtype)                `microtype.cfg/186(protrusion)'.
+
+
+Package microtype Warning: Unknown slot number of character
+(microtype)                `\j '
+(microtype)                in font encoding `T1' in inheritance list
+(microtype)                `microtype.cfg/186(spacing)'.
+
+
+Package microtype Warning: Unknown slot number of character
+(microtype)                `\j '
+(microtype)                in font encoding `T1' in inheritance list
+(microtype)                `microtype.cfg/186(kerning)'.
+
+(C:\Users\mamluk\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count160
+\scratchdimen=\dimen178
+\scratchbox=\box33
+\nofMPsegments=\count161
+\nofMParguments=\count162
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count163
+\MPscratchDim=\dimen179
+\MPnumerator=\count164
+\makeMPintoPDFobject=\count165
+\everyMPtoPDFconversion=\toks30
+) (C:\Users\mamluk\AppData\Roaming\MiKTeX\2.9\tex\latex\apacite\english.apc
+File: english.apc 2009/03/01 v4.05 apacite language file
+LaTeX Info: Redefining \BPBI on input line 119.
+LaTeX Info: Redefining \BHBI on input line 120.
+
+NOT AUSTRALIAN!!!
+) [1
+
+
+{C:/Users/mamluk/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/MinionPro-OsF/m/sl' in size <12> not availab
+le
+(Font)              Font shape `T1/MinionPro-OsF/m/it' tried instead on input l
+ine 66.
+
+[2
+
+]
+LaTeX Font Info:    Font shape `T1/MinionPro-OsF/bx/n' in size <17.28> not avai
+lable
+(Font)              Font shape `T1/MinionPro-OsF/b/n' tried instead on input li
+ne 70.
+ [3
+
+] [4
+
+]
+Overfull \hbox (5.27626pt too wide) in paragraph at lines 97--98
+[]\T1/MinionPro-OsF/m/n/12 (-20) Next, sim-i-lar themes are pur-sued ex-per-i-m
+en-tally, when a novel method
+ []
+
+[5] [6] ("C:\Users\mamluk\Documents\test\Sharek Dissertation FINAL.toc"
+LaTeX Font Info:    Font shape `T1/MinionPro-OsF/bx/n' in size <12> not availab
+le
+(Font)              Font shape `T1/MinionPro-OsF/b/n' tried instead on input li
+ne 2.
+LaTeX Font Info:    Try loading font information for OML+MinionPro-TOsF on inpu
+t line 2.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MinionPro\omlminionpro-tosf.fd"
+File: OMLMinionPro-TOsF.fd 2005/01/23 v2.0 font definitions for OML/MinionPro-T
+OsF.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MinionPro\MinionPro-FontDef.sty"
+File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
+)) [7
+
+]) [8] [1
+
+
+
+] [2] [3] [4
+
+] [5] [6] [7] [8]
+<contingencytable.pdf, id=57, 451.28601pt x 178.266pt>
+File: contingencytable.pdf Graphic file (type pdf)
+
+<use contingencytable.pdf>
+Package pdftex.def Info: contingencytable.pdf used on input line 168.
+(pdftex.def)             Requested size: 284.52756pt x 112.39249pt.
+LaTeX Font Info:    Try loading font information for T1+Myriad-LF on input line
+ 169.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\MyriadPro\t1myriad-lf.fd"
+File: T1Myriad-LF.fd 2004/10/15 font definitions for T1/Myriad-LF.
+)
+[9] [10 <C:/Users/mamluk/Documents/test/contingencytable.pdf>] [11] [12]
+[13
+
+] [14] [15] <ioc-fig-1.png, id=89, 469.15276pt x 330.033pt>
+File: ioc-fig-1.png Graphic file (type png)
+
+<use ioc-fig-1.png>
+Package pdftex.def Info: ioc-fig-1.png used on input line 223.
+(pdftex.def)             Requested size: 284.52756pt x 200.16661pt.
+ [16 <C:/Users/mamluk/Documents/test/ioc-fig-1.png>]
+[17] [18] <ioc-fig-2.png, id=100, 511.31026pt x 312.56775pt>
+File: ioc-fig-2.png Graphic file (type png)
+
+<use ioc-fig-2.png>
+Package pdftex.def Info: ioc-fig-2.png used on input line 273.
+(pdftex.def)             Requested size: 284.52756pt x 173.93977pt.
+ [19] [20 <C:/Users/mamluk/Documents/test/ioc-fig-2.png>]
+[21]
+Overfull \hbox (7.46086pt too wide) in paragraph at lines 318--318
+[][] 
+ []
+
+
+Overfull \hbox (8.20485pt too wide) in paragraph at lines 318--318
+[] 
+ []
+
+
+Overfull \hbox (12.17688pt too wide) in paragraph at lines 318--318
+[]|  
+ []
+
+
+Overfull \hbox (1.15848pt too wide) in paragraph at lines 318--318
+[]\T1/MinionPro-OsF/m/n/12 (-20) 100%|  
+ []
+
+[22] <ioc-fig-3.png, id=115, 481.8pt x 345.6915pt>
+File: ioc-fig-3.png Graphic file (type png)
+ <use ioc-fig-3.png>
+Package pdftex.def Info: ioc-fig-3.png used on input line 324.
+(pdftex.def)             Requested size: 284.52756pt x 204.15137pt.
+ [23]
+[24 <C:/Users/mamluk/Documents/test/ioc-fig-3.png>]
+Overfull \hbox (8.64139pt too wide) in paragraph at lines 342--344
+\T1/MinionPro-OsF/m/n/12 (-20) Our third study em-ployed Al-loy and Abram-son's
+ (1979) pop-u-lar ``button-light'' paradigm.
+ []
+
+[25] [26] [27] [28] [29] [30] <ioc-fig-4.png, id=142, 517.935pt x 297.5115pt>
+File: ioc-fig-4.png Graphic file (type png)
+
+<use ioc-fig-4.png>
+Package pdftex.def Info: ioc-fig-4.png used on input line 424.
+(pdftex.def)             Requested size: 284.52756pt x 163.4457pt.
+ [31] [32] [33 <C:/Users/mamluk/Documents/test/ioc-fig-4.png>] [34] [35] [36] [
+37] [38] [39] [40
+
+] [41] [42] [43]
+<model-fig-1.png, id=189, 1819.79875pt x 1164.35pt>
+File: model-fig-1.png Graphic file (type png)
+ <use model-fig-1.png>
+Package pdftex.def Info: model-fig-1.png used on input line 522.
+(pdftex.def)             Requested size: 397.0pt x 254.00804pt.
+
+<model-fig-2.png, id=190, 1819.79875pt x 1164.35pt>
+File: model-fig-2.png Graphic file (type png)
+ <use model-fig-2.png>
+Package pdftex.def Info: model-fig-2.png used on input line 531.
+(pdftex.def)             Requested size: 397.0pt x 254.00804pt.
+
+[44 <C:/Users/mamluk/Documents/test/model-fig-1.png>] [45 <C:/Users/mamluk/Docu
+ments/test/model-fig-2.png>] [46]
+Underfull \hbox (badness 1515) in paragraph at lines 556--556
+[]\T1/MinionPro-OsF/m/n/12 (+20) Table 4.1: \T1/MinionPro-OsF/b/n/12 Com-par-i-
+son of Em-pir-i-cal and Sim-u-lated Re-sults: \T1/MinionPro-OsF/m/n/12 (+20) Th
+e sim-u-lated
+ []
+
+[47] [48] [49] [50
+
+] [51] [52]
+Overfull \hbox (1.94635pt too wide) in paragraph at lines 650--650
+[][]|  
+ []
+
+[53] [54] [55] [56] [57] [58] [59
+
+] [60]
+Overfull \hbox (3.63153pt too wide) in paragraph at lines 728--740
+[][] 
+ []
+
+[61] [62] [63] [64
+
+] [65] [66] [67] [68] [69] [70] [71] [72
+
+] [73] [74] [75]
+[76] [77] [78] [79] [80] [81] [82
+
+]
+<learning1.pdf, id=316, 794.97pt x 614.295pt>
+File: learning1.pdf Graphic file (type pdf)
+ <use learning1.pdf>
+Package pdftex.def Info: learning1.pdf used on input line 935.
+(pdftex.def)             Requested size: 397.0pt x 306.78117pt.
+
+<learning2.pdf, id=317, 794.97pt x 614.295pt>
+File: learning2.pdf Graphic file (type pdf)
+ <use learning2.pdf>
+Package pdftex.def Info: learning2.pdf used on input line 943.
+(pdftex.def)             Requested size: 397.0pt x 306.78117pt.
+
+<learning3.pdf, id=318, 794.97pt x 614.295pt>
+File: learning3.pdf Graphic file (type pdf)
+ <use learning3.pdf>
+Package pdftex.def Info: learning3.pdf used on input line 951.
+(pdftex.def)             Requested size: 397.0pt x 306.78117pt.
+
+<learning4.pdf, id=319, 794.97pt x 614.295pt>
+File: learning4.pdf Graphic file (type pdf)
+ <use learning4.pdf>
+Package pdftex.def Info: learning4.pdf used on input line 958.
+(pdftex.def)             Requested size: 397.0pt x 306.78117pt.
+
+<learning5.pdf, id=320, 794.97pt x 614.295pt>
+File: learning5.pdf Graphic file (type pdf)
+ <use learning5.pdf>
+Package pdftex.def Info: learning5.pdf used on input line 965.
+(pdftex.def)             Requested size: 397.0pt x 306.78117pt.
+ [83
+
+
+] [84 <C:/Users/mamluk/Documents/test/learning1.pdf>] [85 <C:/Users/mamluk/Docu
+ments/test/learning2.pdf>] [86 <C:/Users/mamluk/Documents/test/learning3.pdf>] 
+[87 <C:/Users/mamluk/Documents/test/learning4.pdf>] [88 <C:/Users/mamluk/Docume
+nts/test/learning5.pdf>] ("C:\Users\mamluk\Documents\test\Sharek Dissertation F
+INAL.bbl"
+[89
+
+
+] [90] [91] [92] [93] [94] [95]) [96] [97
+
+]
+\tf@toc=\write4
+
+("C:\Users\mamluk\Documents\test\Sharek Dissertation FINAL.aux") ) 
+Here is how much of TeX's memory you used:
+ 11704 strings out of 495303
+ 181942 string characters out of 3181468
+ 263617 words of memory out of 3000000
+ 14178 multiletter control sequences out of 15000+200000
+ 725171 words of font info for 505 fonts, out of 3000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 49i,12n,58p,3509b,489s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolS.enc}{C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{C:/Program Files (x86)
+/MiKTeX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{C:/Program Files (x86)/MiKT
+eX 2.9/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Program Files (x86)/MiKTeX 2.
+9/fonts/enc/dvips/MinionPro/base-MinionPro-ad.enc}{C:/Program Files (x86)/MiKTe
+X 2.9/fonts/enc/dvips/MinionPro/base-MinionPro-ae.enc}{C:/Program Files (x86)/M
+iKTeX 2.9/fonts/enc/dvips/MinionPro/base-MinionPro-ab.enc}{C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/enc/dvips/MyriadPro/my-lf-t1.enc}{C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/enc/dvips/MinionPro/base-MinionPro-aa.enc}{C:/Program Files (x86
+)/MiKTeX 2.9/fonts/enc/dvips/MinionPro/base-MinionPro-ac.enc}<C:/Users/mamluk/A
+ppData/Local/MiKTeX/2.9/fonts/type1/Adobe/MinionPro/MinionPro-Bold.pfb><C:/User
+s/mamluk/AppData/Local/MiKTeX/2.9/fonts/type1/Adobe/MinionPro/MinionPro-It.pfb>
+<C:/Users/mamluk/AppData/Local/MiKTeX/2.9/fonts/type1/Adobe/MinionPro/MinionPro
+-Regular.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/mnsymbol/MnS
+ymbol10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/mnsymbol/MnSy
+mbol12.pfb><C:/Users/mamluk/AppData/Local/MiKTeX/2.9/fonts/type1/Adobe/MyriadPr
+o/MyriadPro-Regular.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/zapf
+ding/uzdr.pfb>
+Output written on "Sharek Dissertation FINAL.pdf" (105 pages, 1869865 bytes).
+PDF statistics:
+ 485 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66621 words of extra memory for PDF output out of 74296 (max. 10000000)
+

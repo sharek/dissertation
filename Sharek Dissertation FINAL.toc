@@ -1,0 +1,94 @@
+\select@language {USenglish}
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}
+\contentsline {chapter}{\chapternumberline {2}On Control and its Illusions}{4}
+\contentsline {section}{\numberline {2.1}Experimental Paradigms}{4}
+\contentsline {subsection}{Event-onset research}{6}
+\contentsline {subsection}{The Control Heuristic}{8}
+\contentsline {section}{\numberline {2.2}A normative model for estimating control}{9}
+\contentsline {section}{\numberline {2.3}The role of prior beliefs in estimating contingencies}{12}
+\contentsline {chapter}{\chapternumberline {3}Keeping the Illusion of Control under Control}{13}
+\contentsline {section}{\numberline {3.1}Introduction}{13}
+\contentsline {section}{\numberline {3.2}Miscalibration in Judgment}{14}
+\contentsline {section}{\numberline {3.3}Theoretical Model and Research Hypotheses}{15}
+\contentsline {subsection}{Experimental Design Advantages}{16}
+\contentsline {section}{\numberline {3.4}Study 1: Poor Calibration in Predicting One's Control}{17}
+\contentsline {subsection}{Method}{17}
+\contentsline {subsubsection}{Participants}{17}
+\contentsline {subsubsection}{Design and procedure}{17}
+\contentsline {subsection}{Results}{18}
+\contentsline {subsubsection}{Task performance}{18}
+\contentsline {subsubsection}{Perceived control}{19}
+\contentsline {subsection}{Discussion}{20}
+\contentsline {section}{\numberline {3.5}Study 2: Examining Situations of Complete Control}{21}
+\contentsline {subsection}{Method}{21}
+\contentsline {subsubsection}{Participants}{21}
+\contentsline {subsection}{Results}{22}
+\contentsline {subsubsection}{Task performance}{22}
+\contentsline {subsubsection}{Initial predictions}{22}
+\contentsline {subsubsection}{Estimates of control}{22}
+\contentsline {subsection}{Discussion}{23}
+\contentsline {section}{\numberline {3.6}Study 3: Motivation and Illusion of Control}{25}
+\contentsline {subsection}{Measuring Perceived Control}{25}
+\contentsline {subsection}{Method}{26}
+\contentsline {subsubsection}{Participants}{26}
+\contentsline {subsubsection}{Design and procedure}{26}
+\contentsline {subsection}{Results}{28}
+\contentsline {subsubsection}{Button-pressing}{28}
+\contentsline {subsubsection}{Perceptions of control}{29}
+\contentsline {subsubsection}{Estimates of contingency}{29}
+\contentsline {subsubsection}{Additional analyses}{31}
+\contentsline {subsection}{Discussion}{31}
+\contentsline {section}{\numberline {3.7}General Discussion}{33}
+\contentsline {subsection}{Limitations}{35}
+\contentsline {subsection}{Theoretical Implications}{37}
+\contentsline {subsection}{Practical Implications}{38}
+\contentsline {section}{\numberline {3.8}Conclusion}{39}
+\contentsline {chapter}{\chapternumberline {4}Modeling the Illusion of Control}{40}
+\contentsline {section}{\numberline {4.1}Bayesian inference and the Illusion of Control}{40}
+\contentsline {section}{\numberline {4.2}Simulating the Illusion of Control}{46}
+\contentsline {section}{\numberline {4.3}What is the right way to measure control?}{48}
+\contentsline {chapter}{\chapternumberline {5}Understanding the Meaning of Control}{50}
+\contentsline {section}{\numberline {5.1}Study Introduction}{50}
+\contentsline {section}{\numberline {5.2}Method}{51}
+\contentsline {subsection}{Participants}{51}
+\contentsline {subsection}{Study Design}{51}
+\contentsline {subsection}{Estimating Bayesian Beliefs of Contingency}{52}
+\contentsline {subsection}{Other Measures}{52}
+\contentsline {subsection}{Conditions}{53}
+\contentsline {section}{\numberline {5.3}Results}{54}
+\contentsline {subsection}{Estimations of Control}{54}
+\contentsline {subsection}{How Bayesian were Estimates of the Probabilities?}{56}
+\contentsline {section}{\numberline {5.4}Discussion}{57}
+\contentsline {chapter}{\chapternumberline {6}Exposing Definitions of Control}{59}
+\contentsline {section}{\numberline {6.1}Study Introduction}{59}
+\contentsline {section}{\numberline {6.2}Method}{60}
+\contentsline {subsection}{Participants}{60}
+\contentsline {subsection}{Study Design}{60}
+\contentsline {section}{\numberline {6.3}Results}{61}
+\contentsline {section}{\numberline {6.4}Discussion}{62}
+\contentsline {chapter}{\chapternumberline {7}Control over Non-Dichotomous Outcomes}{64}
+\contentsline {section}{\numberline {7.1}Study Introduction}{64}
+\contentsline {subsection}{Measuring Control in Non-Dichotomous Situations}{65}
+\contentsline {subsection}{Experimental Goals and Predictions}{67}
+\contentsline {section}{\numberline {7.2}Method}{67}
+\contentsline {subsection}{Participants}{67}
+\contentsline {subsection}{Design and Procedure}{67}
+\contentsline {subsection}{Independent Variables}{68}
+\contentsline {section}{\numberline {7.3}Results}{69}
+\contentsline {subsection}{Participants' Estimates of Means and Control}{69}
+\contentsline {subsection}{Assessing the Mean-Outcome Differential Measure of Control?}{70}
+\contentsline {section}{\numberline {7.4}Discussion}{71}
+\contentsline {chapter}{\chapternumberline {8}Conclusion}{72}
+\contentsline {section}{\numberline {8.1}General Discussion}{72}
+\contentsline {subsection}{Where do estimates of control come from?}{73}
+\contentsline {section}{\numberline {8.2}Implications for other research}{75}
+\contentsline {subsection}{Positive Illusions}{75}
+\contentsline {subsection}{Overconfidence}{76}
+\contentsline {subsection}{Power}{77}
+\contentsline {section}{\numberline {8.3}Limitations of the present work and directions for future research}{77}
+\contentsline {section}{\numberline {8.4}Reconsidering the Nature of Control}{79}
+\contentsline {section}{\numberline {8.5}Conclusion}{81}
+\contentsline {appendix}{\chapternumberline {A}Instructions used in Study 1, Chapter \ref {chap:ioc}}{82}
+\contentsline {appendix}{\chapternumberline {B}Contingency Learning: Participants vs. Bayesian}{83}
+\contentsline {chapter}{References}{89}
+\contentsline {chapter}{Colophon}{97}
